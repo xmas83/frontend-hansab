@@ -1,0 +1,11 @@
+html,
+body {
+    background-color: #f3fdff;
+}
+
+@media (max-width: 768px) {
+    .table-custom th,
+    .table-custom td {
+        font-size: 14px;
+    }
+}
